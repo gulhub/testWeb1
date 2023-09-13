@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'gulWeb1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A440D586E9ED4537A315ECB984A7386F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_534339BB6A694FDA810121EDE201D095 }}
           package: .
